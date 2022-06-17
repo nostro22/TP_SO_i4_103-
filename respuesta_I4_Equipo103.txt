@@ -1,0 +1,33 @@
+"Nombres equipo 103":
+
+ALFA:
+Nicolas Gonzalez Ausente
+BETA:
+Julian Argento
+GAMMA:
+Eduardo Sosa
+
+Preguntas:
+
+A- ¿Qué color de fondo tiene su página en el TESTING ? 
+a)-Azul
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+b)-Amarillo
+C- ¿Qué color de fondo tiene su página en el MASTER?
+c)-Azul
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+d)-Quedo el favicon de BETA
+E- ¿Algún integrante tuvo problemas al hacer el push?
+e) Tuvimos problemas con conflictos, tanto en el push como en el merge de GAMMA y BETA
+F- ¿Qué problemas surgieron?
+f) Los problemas que surgieron fueron:
+* TESTING /error al intentar el merge de el archivo .css
+* MAIN Y DESARROLLO/error al intentar el merge de el archivo .css , index.html y favicon, ya que estaban repetidos
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+g) La solucion fue resolver los conflictos e ir decidiendo con que quedarnos o aceptar ambas request de datos en caso de los textos
+H- ¿Qué sucede si cada uno utiliza el push -f?
+h) El push sera forzado y borrara los commits de los otros participantes si todavia no pushearon
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+i) Fuimos haciendo los push turnados, asi no habian conflictos (ademas, al ser 2 y faltar 1, hubieron menos conflictos)
